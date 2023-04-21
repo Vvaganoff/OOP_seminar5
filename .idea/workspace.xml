@@ -4,25 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a73c673-dfae-4b8b-bd08-ccc0fb8223d2" name="Changes" comment="Добавлено решение домашнего задания">
+    <list default="true" id="5a73c673-dfae-4b8b-bd08-ccc0fb8223d2" name="Changes" comment="Добавлено решение домашнего задания 5 семинара">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/BD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataBase.db" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem2/cw/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem2/hw/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem2/hw/BD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem2/hw/BD.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem2/hw/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem2/hw/NewProduct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem2/hw/Notebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem2/hw/PersonalComputer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem2/hw/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem2/hw/ToPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Models/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Models/DataBaseMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Models/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Presenter/BalanceOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Presenter/ChooseUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Presenter/NewUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Presenter/RemoveUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Viewer/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Viewer/UserInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/sem2/hw/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/sem2/hw/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,13 +31,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/org/example/sem2/hw" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,12 +63,15 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Обучение Разработчик/ООП/Vvedenie_v_oop/src/main/java/org/example/sem2/hw"
+    "last_opened_file_path": "D:/Обучение Разработчик/ООП/Vvedenie_v_oop"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Обучение Разработчик\ООП\Vvedenie_v_oop\src\main\java\org\example\sem2\hw" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Обучение Разработчик\ООП\Vvedenie_v_oop" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -81,19 +83,46 @@
       <option name="presentableId" value="Default" />
       <updated>1680803246452</updated>
     </task>
+    <task id="LOCAL-00001" summary="Добавлено решение домашнего задания">
+      <created>1681252391954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681252391954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Добавлено решение домашнего задания" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавлено решение домашнего задания" />
+    <MESSAGE value="Добавлено решение домашнего задания 5 семинара" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлено решение домашнего задания 5 семинара" />
   </component>
   <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="PersonalComputer.FilterProducts(pcHashSet, filterMap)" />
-        <watch expression="System.getProperty(&quot;line.separator&quot;)" />
-      </configuration>
-    </watches-manager>
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="6" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/sem5/hw/Presenter/BalanceOperations.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
